@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Cache
+.cache/
+
+# User config (use config.example.json as template)
+config.json
+
+# Environment
+.env
+
+# Claude Code
+.claude/
